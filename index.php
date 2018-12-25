@@ -148,7 +148,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <div class="thumbnail">
       <img src="images/i11.jpg" alt="...">
       <div class="caption">
-        <h4>Prof. Adamu Abubakar Gwarzo with some Academicians at Himalaya, Malysia.</h4>
+        <h4>Prof. Adamu Abubakar Gwarzo with some Academicians at Himalaya, Malaysia.</h4>
         <p></p>
       </div>
     </div>
