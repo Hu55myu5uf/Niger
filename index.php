@@ -84,7 +84,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		
 
 
-<img class="imgh" width="100%" src="images/i2.jpg">
+<img class="imgh" width="100%" src="images/img/i26.jpg">
 
 
 
@@ -104,7 +104,89 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 
 
+	<div class="col">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/i23.jpg" alt="...">
+      <div class="caption">
+        <h4>Prof. Adamu Abubakar Gwarzo during his speech at MAAUN Graduation Dinner on the 3rd of January, 2019.</h4>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
 
+<div class="col">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/i31.jpg" alt="...">
+      <div class="caption">
+        <h4>Prof. Adamu Abubakar Gwarzo's attendance at the MAAUN Graduation Dinner on the 3rd of January, 2019.</h4>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/i24.jpg" alt="...">
+      <div class="caption">
+        <h4>Prof. Adamu Abubakar Gwarzo presenting an Award to the Popular Nigerian Musician David Adeleke Davido, known as Davido after his performance at MAAUN Graduation Dinner.</h4>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/i25.jpg" alt="...">
+      <div class="caption">
+        <h4>Prof. Adamu Abubakar Gwarzo Advised the Graduating Students to be good Ambassadors of the University and also wished them the best in their future .</h4>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/i27.jpg" alt="...">
+      <div class="caption">
+        <h4>Prof. Adamu Abubakar Gwarzo receiving a gift of Portrait from Tubless Photography at the Get Together he organised at Tribes n Meenah for his Students in Kano on the 6th of January, 2019.</h4>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/i29.jpg" alt="...">
+      <div class="caption">
+        <h4>After Nura M Inuwa's performance, Prof. Adamu Abubakar Gwarzo Presented a gift of 2 Million Naira and a Scholarship for the Hausa popular artist to further his Education in MAAUN University.</h4>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="col">
+  <div class="col-sm-6 col-md-4">
+    <div class="thumbnail">
+      <img src="images/i30.jpg" alt="...">
+      <div class="caption">
+        <h4>Prof. Adamu Abubakar Gwarzo hosted some of his students for dinner at Tribes n Meenah in Kano on the 6th of January, 2019.</h4>
+        <p></p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 	<div class="col">
@@ -119,7 +201,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </div>
 </div>
 
-<div class="col">
+<div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="images/i8.jpg" alt="...">
@@ -131,7 +213,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </div>
 </div>
 
-<div class="row">
+<div class="col">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="images/i16.jpg" alt="...">
@@ -155,7 +237,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </div>
 </div>
 
-<div class="col">
+<div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="images/i4.jpg" alt="...">
@@ -167,7 +249,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </div>
 </div>
 
-<div class="row">
+<div class="col">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="images/i13.jpg" alt="...">
@@ -191,7 +273,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </div>
 </div>
 
-<div class="col">
+<div class="row">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="images/i14.jpg" alt="...">
@@ -203,7 +285,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   </div>
 </div>
 
-<div class="row">
+<div class="col">
   <div class="col-sm-6 col-md-4">
     <div class="thumbnail">
       <img src="images/i5.jpg" alt="...">
@@ -217,7 +299,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 
 </div>
-
+		
+		
 	<!-- //Latest Updates -->
 	
 	<!-- footer -->
